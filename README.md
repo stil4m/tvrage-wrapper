@@ -1,7 +1,7 @@
-TvRage Java Wrapper
+TVRage Java Wrapper
 =====================
 
-This project is a Java wrapper for the information that is available on the TvRage website.
+This project is a Java wrapper for the information that is available on the TVRage website.
 
 Current fucntionionality includes:
 
